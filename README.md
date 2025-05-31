@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-using-Adaptive-CNN-LSTM-Hybrid-Model
